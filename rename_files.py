@@ -1,5 +1,7 @@
 import os
 
+#Program that renamed a bunch of my files in a folder and removed any numbers present in them.
+#helps reveal my secret message.
 def rename_files():
     #1 : Get file names from the folder
 

@@ -1,3 +1,4 @@
+#Program attempts to draw a flower using the turtle function
 import turtle
 
 def flower_line():
